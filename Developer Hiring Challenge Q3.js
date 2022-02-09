@@ -1,4 +1,4 @@
-// Add your javascript here
+
 const imageDOM = document.querySelector("#carousel-img");
 imageDOM.src = '/assets/images/img-1.jpg';
 const previousDOM = document.querySelector("#previous");
